@@ -52,5 +52,7 @@ Comando
 😃  
 :monkey:
 
+> Marcação estilo "resposta"
+
 ![Foto Carro](https://github.com/user-attachments/assets/0edb1d54-1cc8-4aea-b32f-787947afff15)
 [Meu Repositório](https://github.com/ArthurNBarcelos)
