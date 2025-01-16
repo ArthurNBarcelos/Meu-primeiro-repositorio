@@ -35,3 +35,22 @@ To do
 - [ ] A
 - [x] B
 - [X] C
+
+Nome|Idade
+---|---|
+Arthur|20
+Sabrina|18
+
+`formato de comando`
+
+```
+Bloco
+de
+Comando
+```
+
+😃  
+:monkey:
+
+![Foto Carro](https://github.com/user-attachments/assets/0edb1d54-1cc8-4aea-b32f-787947afff15)
+[Meu Repositório](https://github.com/ArthurNBarcelos)
